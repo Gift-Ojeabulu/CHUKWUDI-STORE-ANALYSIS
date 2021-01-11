@@ -5,7 +5,7 @@ Chukwudi Supermarkets is a leading indigenous chain of supermarkets with headqua
 
 Mr. M.N. Chukwudi, the Chairman of the company is exploring a strategic expansion into more cities in Nigeria but he wants to understand what product gives better margin at specific stores. For example a tin of milk which sells for N100 in one of his supermarket branches may also be sold at N110 at another supermarket within Mr Chukwudi's chain of supermarkets. He needs to therefore understand what type of product, market clusters and supermarket type (location, age, size) will give more margin as he plans to expand to more cities in the country.
 
-You have been engaged as the new Retail Data Analysts to build a predictive model and find out the sales of each product at a particular supermarket.
+As a Data Analysts I built a predictive model and find out the sales of each product at a particular supermarket.
 With your guided analysis, Mr Chukwudi will understand the key characteristics of products and supermarkets driving sales and be better informed on an optimal template for its planned expansion to other states in Nigeria.
 
 The data provided comprises of transaction records of all the supermarket at product level. Please note that the data may have missing values as some stores might not report all the data due to technical glitches as a result of NEPA/generator failure.

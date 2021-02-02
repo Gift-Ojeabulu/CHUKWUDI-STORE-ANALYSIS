@@ -36,3 +36,11 @@ Supermarket _Type Description of the supermarket as a grocery store or some sort
 ProductSupermarketIdentifier Unique identifier of each product type per supermarket.
 
 Product_ Supermarket_Sales Sales of the product in the particular store. This is the outcome variable to be predicted.
+
+![](https://github.com/Gift-Ojeabulu/Supermarket_analysis-and-visualization/blob/main/Chukwu_screenshot.png)
+
+![](https://github.com/Gift-Ojeabulu/Supermarket_analysis-and-visualization/blob/main/Chukwu_scatterplot.png)
+
+![](https://github.com/Gift-Ojeabulu/Supermarket_analysis-and-visualization/blob/main/Chukwu_Boxplot.png)
+
+![](https://github.com/Gift-Ojeabulu/Supermarket_analysis-and-visualization/blob/main/Chukwu_Ml_prediction.png)

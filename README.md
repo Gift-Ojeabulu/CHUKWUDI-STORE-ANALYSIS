@@ -3,7 +3,7 @@
 # CHUKWUDI STORE ANALYSIS & PRESENTATION
 
 ## ✅ Goal
-The Goal is to provide an analysis and Insights that make Mr Chukwudi understand what type of product, market clusters and supermarket type (location, age, size) which will give more margin as he plans to expand to more cities in Nigeria
+The Goal is to provide analysis and Insights that make Mr Chukwudi understand what type of product, market clusters and supermarket type (location, age, size) which will give more margin as he plans to expand to more cities in Nigeria
 
 ![](https://github.com/Gift-Ojeabulu/CHUKWUDI-STORE-ANALYSIS/blob/main/CHUKWUDI%20STORE%20PRESENTATION%20-%20Google%20Slides.gif)
 

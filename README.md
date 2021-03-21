@@ -17,7 +17,7 @@ The Goal is to provide an analysis and Insights that make Mr Chukwudi understand
 	* PANDAS
 	* SEABORN
 	* SCIKIT-LEARN
-    * GOGGLE SLIDE
+    * GOGGLE SLIDE/MICROSOFT POWERPOINT
 
 
 

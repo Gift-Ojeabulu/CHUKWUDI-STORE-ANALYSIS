@@ -8,6 +8,7 @@ The Goal is to provide analysis and Insights that make Mr Chukwudi understand wh
 ![](https://github.com/Gift-Ojeabulu/CHUKWUDI-STORE-ANALYSIS/blob/main/CHUKWUDI%20STORE%20PRESENTATION%20-%20Google%20Slides.gif)
 
 * [LINK TO PRESENTATION AND INSIGHTS](https://docs.google.com/presentation/d/17dqXXJa0k7jSPV0vNnqGsjjNfzMHg9C_n9ZQvgsdWr8/edit#slide=id.gc913e74879_0_1310)
+* * [LINK TO NOTEBOOK](https://nbviewer.jupyter.org/github/Gift-Ojeabulu/CHUKWUDI-STORE-ANALYSIS/blob/main/supermarket_regression.ipynb)
 
 
 
